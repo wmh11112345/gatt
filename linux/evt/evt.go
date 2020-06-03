@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/currantlabs/gatt/linux/util"
+	"github.com/wmh11112345/gatt/linux/util"
 )
 
 type EventHandler interface {

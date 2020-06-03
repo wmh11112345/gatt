@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/currantlabs/gatt"
-	"github.com/currantlabs/gatt/examples/option"
+	"github.com/wmh11112345/gatt"
+	"github.com/wmh11112345/gatt/examples/option"
 )
 
 func onStateChanged(d gatt.Device, s gatt.State) {
